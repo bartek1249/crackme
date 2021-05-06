@@ -1,5 +1,5 @@
 # crackme
-Easy crackme implementation.
+Easy crackme implementation written in C.
 
 Usage:
 
